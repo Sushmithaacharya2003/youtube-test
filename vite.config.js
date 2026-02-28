@@ -19,5 +19,6 @@ function getBasePath() {
 
 export default defineConfig(({ mode }) => ({
   plugins: [react()],
-  base: mode === 'production' ? getBasePath() : '/'
+  // GitHub Pages needs the repo subpath; Vercel serves from the root path.
+  base: mode === 'production' && process.env.VERCEL !== '1' ? getBasePath() : '/'
 }));
