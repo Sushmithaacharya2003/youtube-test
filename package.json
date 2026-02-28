@@ -2,7 +2,7 @@
   "name": "youtube-video-details",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://{username}.github.io/{repo-name}",
+  "homepage": "https://sushmithaacharya2003.github.io/youtube-test",
   "dependencies": {
     "lucide-react": "^0.542.0",
     "react": "^18.3.1",
