@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c1",
+    "author": "Alex Johnson",
+    "avatar": "https://i.pravatar.cc/40?img=1",
+    "handle": "@alexj",
+    "timeAgo": "3 days ago",
+    "text": "This is exactly what I needed. Followed along and got it working in under 2 hours. The PostgreSQL section was super clear!",
+    "likes": 342,
+    "isLiked": false,
+    "isPinned": true,
+    "replies": 12
+  },
+  {
+    "id": "c2",
+    "author": "Priya Nair",
+    "avatar": "https://i.pravatar.cc/40?img=5",
+    "handle": "@priyanair",
+    "timeAgo": "5 days ago",
+    "text": "The pacing in this tutorial is great. Fast enough to stay interesting, but not so fast that I got lost.",
+    "likes": 189,
+    "isLiked": true,
+    "isPinned": false,
+    "replies": 4
+  },
+  {
+    "id": "c3",
+    "author": "Marcus Lee",
+    "avatar": "https://i.pravatar.cc/40?img=8",
+    "handle": "@marcusl",
+    "timeAgo": "1 week ago",
+    "text": "Would love a follow-up where you add auth and deployment. This is one of the cleanest demos I've seen in a while.",
+    "likes": 421,
+    "isLiked": false,
+    "isPinned": false,
+    "replies": 18
+  },
+  {
+    "id": "c4",
+    "author": "Sofia Chen",
+    "avatar": "https://i.pravatar.cc/40?img=11",
+    "handle": "@sofiachen",
+    "timeAgo": "1 week ago",
+    "text": "I finally understand how the frontend and backend connect. The API section clicked for me immediately.",
+    "likes": 76,
+    "isLiked": false,
+    "isPinned": false,
+    "replies": 0
+  },
+  {
+    "id": "c5",
+    "author": "Daniel Ortiz",
+    "avatar": "https://i.pravatar.cc/40?img=14",
+    "handle": "@dortiz",
+    "timeAgo": "2 weeks ago",
+    "text": "Appreciate that you showed the mistakes and fixed them instead of editing around them. That made it feel real.",
+    "likes": 0,
+    "isLiked": false,
+    "isPinned": false,
+    "replies": 2
+  },
+  {
+    "id": "c6",
+    "author": "Emma Brooks",
+    "avatar": "https://i.pravatar.cc/40?img=18",
+    "handle": "@emmab",
+    "timeAgo": "2 weeks ago",
+    "text": "The React section was my favorite. Clean structure, practical state management, and no fluff.",
+    "likes": 257,
+    "isLiked": true,
+    "isPinned": false,
+    "replies": 6
+  },
+  {
+    "id": "c7",
+    "author": "Noah Kim",
+    "avatar": "https://i.pravatar.cc/40?img=22",
+    "handle": "@noahkim",
+    "timeAgo": "3 weeks ago",
+    "text": "Paused a bunch of times to code along and the project still came together smoothly. Strong tutorial.",
+    "likes": 133,
+    "isLiked": false,
+    "isPinned": false,
+    "replies": 1
+  },
+  {
+    "id": "c8",
+    "author": "Lina Farah",
+    "avatar": "https://i.pravatar.cc/40?img=28",
+    "handle": "@linafarah",
+    "timeAgo": "1 month ago",
+    "text": "Saved this immediately. The database integration section is better than most paid courses.",
+    "likes": 498,
+    "isLiked": false,
+    "isPinned": false,
+    "replies": 24
+  }
+]

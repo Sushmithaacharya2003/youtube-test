@@ -1,0 +1,16 @@
+{
+  "id": "abc123",
+  "title": "Building a Full-Stack App in 1 Hour – React + Node + PostgreSQL",
+  "views": 1482039,
+  "uploadedAt": "2024-11-15",
+  "likes": 47200,
+  "dislikes": 820,
+  "description": "In this video, we build a complete full-stack application from scratch using React on the frontend, Node.js/Express on the backend, and PostgreSQL as our database.\n\nTimestamps:\n0:00 - Intro\n2:30 - Setting up the project\n10:00 - Building the React frontend\n28:00 - Creating the Node.js API\n45:00 - Connecting PostgreSQL\n58:00 - Final demo\n\nLinks:\nGitHub Repo: https://github.com/example\nDocumentation: https://docs.example.com\n\nIf you found this helpful, please like and subscribe!",
+  "channel": {
+    "name": "CodeWithMe",
+    "handle": "@codewithme",
+    "avatar": "https://i.pravatar.cc/48?img=12",
+    "subscribers": 892000,
+    "isVerified": true
+  }
+}

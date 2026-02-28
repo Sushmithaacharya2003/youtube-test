@@ -1,0 +1,79 @@
+[
+  {
+    "id": "s1",
+    "title": "React Interview Questions for Freshers and Experienced Developers",
+    "channel": "Akshay Saini",
+    "isVerified": true,
+    "views": "2.6M",
+    "timeAgo": "2 years ago",
+    "duration": "51:31",
+    "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=480&q=80",
+    "badge": null
+  },
+  {
+    "id": "s2",
+    "title": "The Internet Was Weeks Away From Disaster and No One Knew",
+    "channel": "Veritasium",
+    "isVerified": true,
+    "views": "6.3M",
+    "timeAgo": "2 days ago",
+    "duration": "53:00",
+    "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=480&q=80",
+    "badge": "New"
+  },
+  {
+    "id": "s3",
+    "title": "jhol (acoustic) | best part 12mins loop",
+    "channel": "mishidoi._.c",
+    "isVerified": false,
+    "views": "505K",
+    "timeAgo": "11 months ago",
+    "duration": "12:11",
+    "thumbnail": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=480&q=80",
+    "badge": null
+  },
+  {
+    "id": "s4",
+    "title": "Robyn Answers Questions From Celebrity Superfans | The Cut",
+    "channel": "The Cut",
+    "isVerified": true,
+    "views": "57K",
+    "timeAgo": "9 days ago",
+    "duration": "12:38",
+    "thumbnail": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=480&q=80",
+    "badge": null
+  },
+  {
+    "id": "s5",
+    "title": "Charli xcx & Rachel Sennott Take a Friendship Quiz",
+    "channel": "GQ",
+    "isVerified": true,
+    "views": "325K",
+    "timeAgo": "3 weeks ago",
+    "duration": "17:50",
+    "thumbnail": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=480&q=80",
+    "badge": null
+  },
+  {
+    "id": "s6",
+    "title": "The Unity Tutorial For Complete Beginners",
+    "channel": "Game Maker's Toolkit",
+    "isVerified": true,
+    "views": "6.4M",
+    "timeAgo": "3 years ago",
+    "duration": "46:39",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=480&q=80",
+    "badge": null
+  },
+  {
+    "id": "s7",
+    "title": "Margot Robbie, Emerald Fennell & Alison Oliver Take the Hot Seat",
+    "channel": "ELLE",
+    "isVerified": true,
+    "views": "19K",
+    "timeAgo": "2 weeks ago",
+    "duration": "10:21",
+    "thumbnail": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=480&q=80",
+    "badge": null
+  }
+]
